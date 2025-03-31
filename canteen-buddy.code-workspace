@@ -1,8 +1,14 @@
 {
 	"folders": [
 		{
-			"path": "../canteen-buddy"
+			"path": "../../canteen-buddy"
+		},
+		{
+			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "canteen buddy frontend"
+	}
 }
